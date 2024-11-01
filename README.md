@@ -1,4 +1,4 @@
-# Helo World, its me 👋
+# Hello World, its me - JP 👋
 
 ## 🚀 Über mich
 Ich bin ein Softwareentwickler mit einer Leidenschaft für Webentwicklung. 
